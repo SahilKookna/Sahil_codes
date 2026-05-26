@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SahilKookna/Sahil_codes/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SahilKookna/Sahil_codes/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SahilKookna/Sahil_codes/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SahilKookna/Sahil_codes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SahilKookna/Sahil_codes/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -78,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/SahilKookna/Sahil_codes/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/SahilKookna/Sahil_codes/tree/master/0073-set-matrix-zeroes) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SahilKookna/Sahil_codes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SahilKookna/Sahil_codes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
