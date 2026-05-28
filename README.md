@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SahilKookna/Sahil_codes/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SahilKookna/Sahil_codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/SahilKookna/Sahil_codes/tree/master/1004-max-consecutive-ones-iii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/SahilKookna/Sahil_codes/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3477-fruits-into-baskets-ii](https://github.com/SahilKookna/Sahil_codes/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SahilKookna/Sahil_codes/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/SahilKookna/Sahil_codes/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SahilKookna/Sahil_codes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/SahilKookna/Sahil_codes/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Union-Find
 |  |
 | ------- |
@@ -100,11 +102,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/SahilKookna/Sahil_codes/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SahilKookna/Sahil_codes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SahilKookna/Sahil_codes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/SahilKookna/Sahil_codes/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/SahilKookna/Sahil_codes/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SahilKookna/Sahil_codes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/SahilKookna/Sahil_codes/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Segment Tree
 |  |
 | ------- |
