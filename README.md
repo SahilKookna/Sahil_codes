@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/SahilKookna/Sahil_codes/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/SahilKookna/Sahil_codes/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SahilKookna/Sahil_codes/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/SahilKookna/Sahil_codes/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/SahilKookna/Sahil_codes/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/SahilKookna/Sahil_codes/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/SahilKookna/Sahil_codes/tree/master/0260-single-number-iii) |
@@ -151,4 +152,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SahilKookna/Sahil_codes/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/SahilKookna/Sahil_codes/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
