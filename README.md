@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SahilKookna/Sahil_codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SahilKookna/Sahil_codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/SahilKookna/Sahil_codes/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/SahilKookna/Sahil_codes/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/SahilKookna/Sahil_codes/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SahilKookna/Sahil_codes/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/SahilKookna/Sahil_codes/tree/master/0128-longest-consecutive-sequence) |
@@ -142,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/SahilKookna/Sahil_codes/tree/master/0992-subarrays-with-k-different-integers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/SahilKookna/Sahil_codes/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/SahilKookna/Sahil_codes/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
