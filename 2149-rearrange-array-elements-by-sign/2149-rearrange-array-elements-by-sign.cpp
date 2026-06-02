@@ -1,22 +1,22 @@
 class Solution {
 public:
     vector<int> rearrangeArray(vector<int>& nums) {
-        vector<int>v;
-        vector<int>v1;
-        vector<int>v2;
+        
+        int n=nums.size();
+        vector<int>v(n,0);
+        int p=0; 
+        int ng=1;
         for(int i=0;i<nums.size();i++){
-            if(nums[i]>=0){
-                v1.push_back(nums[i]);
-            }
-            else{
-                v2.push_back(nums[i]);
-            }
+           if(nums[i]>=0){
+            v[p]=nums[i];
+            p=p+2;
+           } 
+           else{
+            v[ng]=nums[i];
+            ng=ng+2;
+           }
         }
-        for(int j=0;j<v1.size();j++){
-            v.push_back(v1[j]);
-            v.push_back(v2[j]);
-            
-        }
+       
         return v;
 
     }
