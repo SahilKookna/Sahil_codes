@@ -6,10 +6,10 @@ public:
                 swap(matrix[i][j],matrix[j][i]);
             }
         }
-        for(int a=0;a<matrix.size();a++){
-            for(int b=0;b<matrix[0].size()/2;b++){
-                swap(matrix[a][b],matrix[a][matrix[0].size()-(b+1)]);
-            }
-        }
+         for(int i=0;i<matrix.size();i++){
+             for(int j=0;j<matrix[0].size()/2;j++){
+                swap(matrix[i][j],matrix[i][matrix[0].size()-1-j]);
+             }
+         }
     }
 };
