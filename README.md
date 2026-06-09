@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/SahilKookna/Sahil_codes/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SahilKookna/Sahil_codes/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3477-fruits-into-baskets-ii](https://github.com/SahilKookna/Sahil_codes/tree/master/3477-fruits-into-baskets-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/SahilKookna/Sahil_codes/tree/master/3689-maximum-total-subarray-value-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -176,4 +177,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SahilKookna/Sahil_codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/SahilKookna/Sahil_codes/tree/master/3689-maximum-total-subarray-value-i) |
 <!---LeetCode Topics End-->
