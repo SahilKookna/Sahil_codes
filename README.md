@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SahilKookna/Sahil_codes/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SahilKookna/Sahil_codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SahilKookna/Sahil_codes/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/SahilKookna/Sahil_codes/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/SahilKookna/Sahil_codes/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/SahilKookna/Sahil_codes/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SahilKookna/Sahil_codes/tree/master/0054-spiral-matrix) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SahilKookna/Sahil_codes/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SahilKookna/Sahil_codes/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SahilKookna/Sahil_codes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/SahilKookna/Sahil_codes/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/SahilKookna/Sahil_codes/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/SahilKookna/Sahil_codes/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/SahilKookna/Sahil_codes/tree/master/0283-move-zeroes) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SahilKookna/Sahil_codes/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SahilKookna/Sahil_codes/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/SahilKookna/Sahil_codes/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SahilKookna/Sahil_codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -183,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SahilKookna/Sahil_codes/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SahilKookna/Sahil_codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SahilKookna/Sahil_codes/tree/master/3689-maximum-total-subarray-value-i) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SahilKookna/Sahil_codes/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SahilKookna/Sahil_codes/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
