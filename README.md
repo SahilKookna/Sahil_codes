@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SahilKookna/Sahil_codes/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/SahilKookna/Sahil_codes/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SahilKookna/Sahil_codes/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SahilKookna/Sahil_codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SahilKookna/Sahil_codes/tree/master/0033-search-in-rotated-sorted-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SahilKookna/Sahil_codes/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SahilKookna/Sahil_codes/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SahilKookna/Sahil_codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/SahilKookna/Sahil_codes/tree/master/0075-sort-colors) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SahilKookna/Sahil_codes/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SahilKookna/Sahil_codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SahilKookna/Sahil_codes/tree/master/3689-maximum-total-subarray-value-i) |
 <!---LeetCode Topics End-->
