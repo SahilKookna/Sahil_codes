@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/SahilKookna/Sahil_codes/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/SahilKookna/Sahil_codes/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/SahilKookna/Sahil_codes/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/SahilKookna/Sahil_codes/tree/master/0342-power-of-four) |
 ## Array
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SahilKookna/Sahil_codes/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/SahilKookna/Sahil_codes/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SahilKookna/Sahil_codes/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/SahilKookna/Sahil_codes/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SahilKookna/Sahil_codes/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SahilKookna/Sahil_codes/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SahilKookna/Sahil_codes/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SahilKookna/Sahil_codes/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/SahilKookna/Sahil_codes/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -225,4 +228,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SahilKookna/Sahil_codes/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/SahilKookna/Sahil_codes/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/SahilKookna/Sahil_codes/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
