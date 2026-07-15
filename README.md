@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SahilKookna/Sahil_codes/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/SahilKookna/Sahil_codes/tree/master/0342-power-of-four) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SahilKookna/Sahil_codes/tree/master/1248-count-number-of-nice-subarrays) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SahilKookna/Sahil_codes/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -256,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SahilKookna/Sahil_codes/tree/master/0225-implement-stack-using-queues) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SahilKookna/Sahil_codes/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
