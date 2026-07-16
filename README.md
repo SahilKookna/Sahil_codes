@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/SahilKookna/Sahil_codes/tree/master/0342-power-of-four) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SahilKookna/Sahil_codes/tree/master/1248-count-number-of-nice-subarrays) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SahilKookna/Sahil_codes/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SahilKookna/Sahil_codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/SahilKookna/Sahil_codes/tree/master/2574-left-and-right-sum-differences) |
 | [3477-fruits-into-baskets-ii](https://github.com/SahilKookna/Sahil_codes/tree/master/3477-fruits-into-baskets-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SahilKookna/Sahil_codes/tree/master/3689-maximum-total-subarray-value-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SahilKookna/Sahil_codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/SahilKookna/Sahil_codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SahilKookna/Sahil_codes/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SahilKookna/Sahil_codes/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SahilKookna/Sahil_codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/SahilKookna/Sahil_codes/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/SahilKookna/Sahil_codes/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SahilKookna/Sahil_codes/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SahilKookna/Sahil_codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/SahilKookna/Sahil_codes/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SahilKookna/Sahil_codes/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3477-fruits-into-baskets-ii](https://github.com/SahilKookna/Sahil_codes/tree/master/3477-fruits-into-baskets-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SahilKookna/Sahil_codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Ordered Set
 |  |
 | ------- |
@@ -261,4 +266,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SahilKookna/Sahil_codes/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SahilKookna/Sahil_codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
