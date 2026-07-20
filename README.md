@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/SahilKookna/Sahil_codes/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/SahilKookna/Sahil_codes/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SahilKookna/Sahil_codes/tree/master/1248-count-number-of-nice-subarrays) |
+| [1260-shift-2d-grid](https://github.com/SahilKookna/Sahil_codes/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SahilKookna/Sahil_codes/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SahilKookna/Sahil_codes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SahilKookna/Sahil_codes/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SahilKookna/Sahil_codes/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SahilKookna/Sahil_codes/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SahilKookna/Sahil_codes/tree/master/0073-set-matrix-zeroes) |
+| [1260-shift-2d-grid](https://github.com/SahilKookna/Sahil_codes/tree/master/1260-shift-2d-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SahilKookna/Sahil_codes/tree/master/0054-spiral-matrix) |
+| [1260-shift-2d-grid](https://github.com/SahilKookna/Sahil_codes/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SahilKookna/Sahil_codes/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SahilKookna/Sahil_codes/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3477-fruits-into-baskets-ii](https://github.com/SahilKookna/Sahil_codes/tree/master/3477-fruits-into-baskets-ii) |
