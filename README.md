@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3477-fruits-into-baskets-ii](https://github.com/SahilKookna/Sahil_codes/tree/master/3477-fruits-into-baskets-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SahilKookna/Sahil_codes/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SahilKookna/Sahil_codes/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3731-find-missing-elements](https://github.com/SahilKookna/Sahil_codes/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SahilKookna/Sahil_codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/SahilKookna/Sahil_codes/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SahilKookna/Sahil_codes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SahilKookna/Sahil_codes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3731-find-missing-elements](https://github.com/SahilKookna/Sahil_codes/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SahilKookna/Sahil_codes/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SahilKookna/Sahil_codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SahilKookna/Sahil_codes/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3731-find-missing-elements](https://github.com/SahilKookna/Sahil_codes/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SahilKookna/Sahil_codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
