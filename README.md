@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SahilKookna/Sahil_codes/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/SahilKookna/Sahil_codes/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SahilKookna/Sahil_codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3904-smallest-stable-index-ii](https://github.com/SahilKookna/Sahil_codes/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SahilKookna/Sahil_codes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/SahilKookna/Sahil_codes/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2574-left-and-right-sum-differences](https://github.com/SahilKookna/Sahil_codes/tree/master/2574-left-and-right-sum-differences) |
+| [3904-smallest-stable-index-ii](https://github.com/SahilKookna/Sahil_codes/tree/master/3904-smallest-stable-index-ii) |
 ## Segment Tree
 |  |
 | ------- |
