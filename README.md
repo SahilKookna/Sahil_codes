@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/SahilKookna/Sahil_codes/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SahilKookna/Sahil_codes/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/SahilKookna/Sahil_codes/tree/master/2574-left-and-right-sum-differences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SahilKookna/Sahil_codes/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3477-fruits-into-baskets-ii](https://github.com/SahilKookna/Sahil_codes/tree/master/3477-fruits-into-baskets-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SahilKookna/Sahil_codes/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SahilKookna/Sahil_codes/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -383,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/SahilKookna/Sahil_codes/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SahilKookna/Sahil_codes/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SahilKookna/Sahil_codes/tree/master/0701-insert-into-a-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SahilKookna/Sahil_codes/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
