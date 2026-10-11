@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/SahilKookna/Sahil_codes/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/SahilKookna/Sahil_codes/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SahilKookna/Sahil_codes/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/SahilKookna/Sahil_codes/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/SahilKookna/Sahil_codes/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/SahilKookna/Sahil_codes/tree/master/0342-power-of-four) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SahilKookna/Sahil_codes/tree/master/1248-count-number-of-nice-subarrays) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/SahilKookna/Sahil_codes/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SahilKookna/Sahil_codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SahilKookna/Sahil_codes/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/SahilKookna/Sahil_codes/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/SahilKookna/Sahil_codes/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/SahilKookna/Sahil_codes/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/SahilKookna/Sahil_codes/tree/master/0283-move-zeroes) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/SahilKookna/Sahil_codes/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SahilKookna/Sahil_codes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SahilKookna/Sahil_codes/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SahilKookna/Sahil_codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -388,5 +391,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/SahilKookna/Sahil_codes/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SahilKookna/Sahil_codes/tree/master/2778-sum-of-squares-of-special-elements) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SahilKookna/Sahil_codes/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SahilKookna/Sahil_codes/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SahilKookna/Sahil_codes/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
