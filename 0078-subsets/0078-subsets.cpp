@@ -1,18 +1,19 @@
 class Solution {
 public:
-    vector<vector<int>> subsets(vector<int>& nums) {
-       vector<vector<int>>ans; 
-        int n=nums.size();
-        int subsets=(1<<n);
-        for(int i=0;i<subsets;i++){
-            vector<int>v;
-            for(int j=0;j<n;j++){
-                if(i&(1<<j)){
-                    v.push_back(nums[j]);
-                }
-            }
-            ans.push_back(v);
+    void getallsubset(vector<int>& nums,vector<int>ans,int i,vector<vector<int>>& allsubsets){
+        if(i==nums.size()){
+             allsubsets.push_back({ans});
+             return ;
         }
-        return ans;
+        ans.push_back(nums[i]);
+        getallsubset(nums,ans,i+1,allsubsets);
+        ans.pop_back();
+        getallsubset(nums,ans,i+1,allsubsets);
+    }
+    vector<vector<int>> subsets(vector<int>& nums) {
+        vector<vector<int>> allsubsets;
+        vector<int> ans;
+        getallsubset(nums,ans,0,allsubsets);
+        return allsubsets;
     }
 };
