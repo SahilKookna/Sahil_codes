@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/SahilKookna/Sahil_codes/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/SahilKookna/Sahil_codes/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/SahilKookna/Sahil_codes/tree/master/0342-power-of-four) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SahilKookna/Sahil_codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SahilKookna/Sahil_codes/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SahilKookna/Sahil_codes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SahilKookna/Sahil_codes/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SahilKookna/Sahil_codes/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SahilKookna/Sahil_codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/SahilKookna/Sahil_codes/tree/master/0410-split-array-largest-sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SahilKookna/Sahil_codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0704-binary-search](https://github.com/SahilKookna/Sahil_codes/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/SahilKookna/Sahil_codes/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/SahilKookna/Sahil_codes/tree/master/0904-fruit-into-baskets) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/SahilKookna/Sahil_codes/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/SahilKookna/Sahil_codes/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SahilKookna/Sahil_codes/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SahilKookna/Sahil_codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SahilKookna/Sahil_codes/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SahilKookna/Sahil_codes/tree/master/1552-magnetic-force-between-two-balls) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SahilKookna/Sahil_codes/tree/master/1838-frequency-of-the-most-frequent-element) |
